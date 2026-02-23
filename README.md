@@ -1,44 +1,95 @@
-# Alma_Git
+
 # Smart Productivity App 🚀
 
-A React Native application that combines a To-Do List and a Gender Guesser AI Chat feature in one clean, modern interface.
+A React Native application that combines a To-Do List system and a Gender Guesser AI feature in one clean and modern interface.
+The app helps users stay organized while also interacting with a fun AI-based name prediction tool.
 
 ---
 
 ## 📱 Features
 
 ### 📝 To-Do List
-- Add new tasks
-- Mark tasks as completed
-- Clean and simple UI
-- Real-time task updates
+
+* Add new tasks
+* Mark tasks as completed
+* Delete tasks
+* Clean and simple UI
+* Real-time task updates
 
 ### 🤖 Gender Guesser AI
-- Type any name
-- AI predicts gender
-- Shows confidence percentage
-- Chat-style interface
+
+* Enter any name
+* AI predicts gender (male/female)
+* Di`splays confidence percentage
+
 
 ---
 
 ## 🛠 Technologies Used
 
-- React Native
-- JavaScript
-- Expo
-- React Navigation
+* React Native
+* JavaScript
+* Expo
+* React Navigation
+* External Gender Prediction API
 
 ---
 
-## 🚀 Installation
+## 🚀 Installation & Running the App
 
-1. Clone the repository  
-2. cd project-folder 
+1️⃣ Clone the repository
+
+```
+git clone https://github.com/your-username/your-repository-name.git
+```
+
+2️⃣ Navigate to the project folder
+
+```
+cd your-repository-name
+```
+
+3️⃣ Install dependencies
+
 ```
 npm install
 ```
+
+4️⃣ Start the development server
+
 ```
-npx expo start 
+npx expo start
 ```
 
+---
 
+## 🔮 Future Roadmap
+
+* User authentication system
+* Cloud-based task storage
+* Dark mode support
+* Task categories & filters
+* Improved AI accuracy
+* UI/UX enhancements
+
+---
+
+##  Developer
+
+Developed by **Alma knani**
+Developers Track  YL 2025-26
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Follow these steps to contribute:
+
+1. Fork the repository.
+2. Create a new branch for your feature (`feature/your-feature-name`).
+3. Commit your changes with a clear message.
+4. Push your branch and open a Pull Request.
+
+---
+
+ Ready for collaboration and future improvements!!!
