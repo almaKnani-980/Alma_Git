@@ -40,13 +40,13 @@ The app helps users stay organized while also interacting with a fun AI-based na
 1️⃣ Clone the repository
 
 ```
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/almaKnani-980/Alma_Git
 ```
 
 2️⃣ Navigate to the project folder
 
 ```
-cd your-repository-name
+cd Alma_Git
 ```
 
 3️⃣ Install dependencies
@@ -92,4 +92,3 @@ Contributions are welcome! Follow these steps to contribute:
 
 ---
 
- Ready for collaboration and future improvements!!!
